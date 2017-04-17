@@ -9,14 +9,15 @@ html{
     font-size: 70;
     color: white;
     text-align: center;
+    image-orientation: center;
     background-image:url("C:\Users\MMcCown\Desktop\Codecademy\Broadway.png");
     }
 
-  #menu h2{
+  #menu h3{
     font-family: 'Helvetica';
     font-size: 18px;
     color: white;
-    text-align: inherit;
+    text-align: center;
   }
 
 #process h2{
