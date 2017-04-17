@@ -3,17 +3,18 @@ html{
   background-color: white;
 }
 
-h1{
+#banner h1{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 70;
     color: white;
     text-align: center;
+    vertical-align: text-top;
     image-orientation: center;
     background-image:url("C:\Users\MMcCown\Desktop\Codecademy\Broadway.png");
     }
 
-  #menu h3{
+  #menu p{
     font-family: 'Helvetica';
     font-size: 18px;
     color: white;
@@ -25,4 +26,10 @@ h1{
     font-size: 32px;
     font-weight: bold;
     text-align: center;
+}
+
+#identify h3{
+  font-family: 'Helvetica';
+  font-weight: bold;
+  font-size: 23px;
 }
