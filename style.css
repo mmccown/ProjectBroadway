@@ -9,11 +9,18 @@ html{
     font-size: 70;
     color: white;
     text-align: center;
-    background-image: url("C:\Users\MMcCown\Desktop\Codecademy\Broadway.png");
+    background-image:url("C:\Users\MMcCown\Desktop\Codecademy\Broadway.png");
     }
 
+  #menu h2{
+    font-family: 'Helvetica';
+    font-size: 18px;
+    color: white;
+    text-align: inherit;
+  }
+
 #process h2{
-    font-family: 'Helvetica'; sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
