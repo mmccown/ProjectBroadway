@@ -4,7 +4,7 @@ html, body{
   text-align:center;
 }
 
-#banner h1{
+.banner h1{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 70;
@@ -15,21 +15,21 @@ html, body{
     background-image:url("C:\Users\MMcCown\Desktop\Codecademy\Broadway.png");
     }
 
-  #menu p{
+  .menu p{
     font-family: 'Helvetica';
     font-size: 18px;
     color: white;
     text-align: center;
   }
 
-#process h2{
+.process h2{
     font-family: 'Helvetica', sans-serif;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
 }
 
-#identify h3{
+.identify h3{
   font-family: 'Helvetica';
   font-weight: bold;
   font-size: 23px;
