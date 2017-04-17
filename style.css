@@ -1,0 +1,20 @@
+html{
+  font-family: Helvetica;
+  background-color: white;
+}
+
+#bannertitle h1{
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+    font-size: 70;
+    color: white;
+    text-align: center;
+    background-image: url("c\Users\MMcCown\Desktop\Codecademy\Broadway\broadway.png");
+    }
+
+#process h2{
+    font-family: 'Helvetica'; sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
