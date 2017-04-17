@@ -1,6 +1,7 @@
-html{
+html, body{
   font-family: Helvetica;
   background-color: white;
+  text-align:center;
 }
 
 #banner h1{
