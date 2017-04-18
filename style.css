@@ -1,10 +1,9 @@
 html, body{
   font-family: Helvetica;
-  background-color: white;
   text-align: center;
 }
 
-.banner h1{
+.banner h1, p{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 70px;
@@ -34,5 +33,5 @@ html, body{
    font-size: 11px;
    color: white;
    text-align: left;
-   background-color: dimgray;
+   background-color: #696969;
  }
