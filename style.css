@@ -66,28 +66,8 @@ html, body{
    background-color: #696969;
  }
 
-.home {
-    font-size: 20px;
+.btn-nav{font-size: 20px;
     font-weight: bold;
+    color: white
+    
 }
-
-.about {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.work {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.team {
-    font-size: 20px;
-    font-weight: bold;
-}
-
-.contact {
-    font-size: 20px;
-    font-weight: bold;
-}
-
