@@ -21,7 +21,6 @@ html, body{
     color: white;
     text-align: center;
     vertical-align: text-top;
-    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
     height: auto;
     background-position: top;
   }
@@ -33,11 +32,17 @@ html, body{
     text-align: center;
 }
 
-.identify h3{
+.identify .understand .execute .portfolio .team .contact h3{
   font-family: 'Helvetica';
   font-weight: bold;
   font-size: 23px;
 }
+
+.idtxt .understandtxt .executetxt .portfoliotxt .teamtxt .contacttxt p{
+  font-size: 14px;
+}
+
+
  .footer {
    font-family: 'Helvetica';
    font-size: 11px;
