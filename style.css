@@ -12,7 +12,9 @@ html, body{
     text-align: center;
     vertical-align: text-top;
     image-orientation: center;
-    background-image: url("C:\Users\MMcCown\Desktop\Codecademy\Broadway\images");
+    background-image: url("images/broadway.png");
+    background-repeat: no-repeat;
+    background-position: top;
 
   .menu p{
     font-family: 'Helvetica';
