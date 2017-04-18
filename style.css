@@ -2,34 +2,35 @@ html, body{
   font-family: Helvetica;
   text-align: center;
 }
+.banner{
+    background-image: url("images/broadway.png");
+    height: 320px;
+    background-size: cover;
+}
 
 .banner h1{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 70px;
     color: white;
-    text-align: center;
-    vertical-align: text-top;
-    background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-    height: 1600px;
-    background-position: top;
-  }
+        }
+
   .banner p{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 18px;
     color: white;
-    text-align: center;
-    vertical-align: text-top;
-    height: auto;
-    background-position: top;
-  }
+      }
 
 .process h2{
     font-family: 'Helvetica', sans-serif;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
+}
+
+.squiggle {url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/identify.svg");
+    
 }
 
 .identify .understand .execute .portfolio .team .contact h3{
@@ -42,11 +43,51 @@ html, body{
   font-size: 14px;
 }
 
+.midbanner{
+    background-image: url("images/broadway.png");
+    height: 28px;
+    background-size: cover;
+}
 
- .footer {
+.midbanner p{
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+   
+}
+
+.footer {
    font-family: 'Helvetica';
    font-size: 11px;
    color: white;
    text-align: left;
    background-color: #696969;
  }
+
+.home {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.about {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.work {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.team {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contact {
+    font-size: 20px;
+    font-weight: bold;
+}
+
