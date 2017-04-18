@@ -12,15 +12,9 @@ html, body{
     text-align: center;
     vertical-align: text-top;
     image-orientation: center;
-    background-image: url("images/broadway.png");
+    background-image: url("broadway.png");
     background-repeat: no-repeat;
     background-position: top;
-
-  .menu p{
-    font-family: 'Helvetica';
-    font-size: 18px;
-    color: white;
-    text-align: center;
   }
 
 .process h2{
