@@ -4,7 +4,7 @@ html, body{
   text-align: center;
 }
 
-.banner h1{
+.banner{
     font-family: 'Helvetica', sans-serif;
     font-weight: bold;
     font-size: 70;
@@ -12,7 +12,7 @@ html, body{
     text-align: center;
     vertical-align: text-top;
     image-orientation: center;
-    background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+    background-image: url(../broadway.png);
     }
 
   .menu p{
