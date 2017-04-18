@@ -11,7 +11,7 @@ html, body{
     text-align: center;
     vertical-align: text-top;
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-    height: auto;
+    height: 1600px;
     background-position: top;
   }
   .banner p{
