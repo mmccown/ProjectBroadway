@@ -28,3 +28,9 @@ html, body{
   font-weight: bold;
   font-size: 23px;
 }
+ .footer {
+   font-family: 'Helvetica';
+   font-size: 11px;
+   color: white;
+   background-color: dimgray;
+ }
